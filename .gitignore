@@ -1,0 +1,6 @@
+/venv
+/imagens
+logs/
+plugins/
+teste*.*
+202*.zip
